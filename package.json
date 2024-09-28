@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parveshahamed00/Online-Complaint-Registration-and-Management-system.git"
+    "url": "git+https://github.com/Bala-273/Online-Complaint-Registration-and-Management-system.git"
   },
   "author": "Parvesh Ahamed",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/parveshahamed00/Online-Complaint-Registration-and-Management-system/issues"
+    "url": "https://github.com/Bala-273/Online-Complaint-Registration-and-Management-system.git/issues"
   },
-  "homepage": "https://github.com/parveshahamed00/Online-Complaint-Registration-and-Management-system#readme",
+  "homepage": "https://github.com/Bala-273/Online-Complaint-Registration-and-Management-system.git#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "cloudinary": "^1.35.0",
